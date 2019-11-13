@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
 		
 	char *comando;
 	while(1){
-		
+		return 0;	
 	}
 
     exit(0);

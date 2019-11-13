@@ -1,0 +1,5 @@
+export MAXNOT=2
+export WORDSNOT="Caralho"
+export MAXMSG=4
+
+echo "$MAXNOT $WORDSNOT $MAXMSG"
